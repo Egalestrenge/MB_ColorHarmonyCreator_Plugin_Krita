@@ -68,6 +68,11 @@ Enable **MB Color Harmony Wheel** and restart Krita.
 - The plugin paints into the active node/layer.
 - If the plugin does not appear after install, verify both `.desktop` and package folder are inside `pykrita`, then restart Krita.
 
+## Credits
+
+The color wheel and harmony system used in this plugin are based on the color theory explained by **Marc Brunet** in his video:
+[Color Harmony for Artists](https://www.youtube.com/watch?v=Ejp74Picub0)
+
 ## License
 
 No license file is currently included.
