@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=mb_color_harmony_wheel
+X-Python-2-Compatible=false
+X-Krita-Manual=manual.html
+Name=MB Color Harmony Wheel
+Comment=Paints a 12-hue harmony wheel on the active layer, following the style of Marc Brunet color theory tutorial https://www.youtube.com/watch?v=Ejp74Picub0
